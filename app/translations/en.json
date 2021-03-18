@@ -10,5 +10,14 @@
   "repository_name": "Repository Name: {name}",
   "repository_full_name": "Repository full name: {fullName}",
   "repository_stars": "Repository stars: {stars}",
-  "wednesday_solutions": "Wednesday Solutions"
+  "wednesday_solutions": "Wednesday Solutions",
+  "artist_list": "Songs List",
+  "artist_search": "Songs Search",
+  "artist_search_default": "Search for a artist by entering artist's name in the search box",
+  "search_query_artist": "Search query: {artistName}",
+  "matching_artists": "Total number of matching results: {totalCount}",
+  "artist_name": "Artist Name: {name}",
+  "track_name": "Track Name: {trackName}",
+  "genre": "Genre: {genre}",
+  "no_results_found": "No results found"
 }
